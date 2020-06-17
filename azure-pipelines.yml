@@ -1,6 +1,6 @@
 jobs: 
 - deployment: VMDeploy
-  displayName: web
+  displayName: vm
   environment:
     name: DEV
     resourceType: VirtualMachine
